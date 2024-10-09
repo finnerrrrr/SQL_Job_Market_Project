@@ -11,7 +11,7 @@ Data hails from [Luke Barousse's SQL Course](https://www.lukebarousse.com/sql), 
 
  ### The guiding questions I used were:
 
- 1. What are the top-paying data analyst jobs?
+ 1. What are the top-paying business analyst jobs?
  2. What are the skills required for these top-paying jobs?
  3. What skills are most in demand for Business Analysts?
  4. Which skills are associated with higher salaries?
