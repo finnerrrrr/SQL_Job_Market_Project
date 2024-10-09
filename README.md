@@ -1,5 +1,5 @@
 # Introduction
-Here is my deep dive into the data job market! Focusing on analyst roles, this project explore rop-paying positions, in-demand skills and the intersection point of both, for Business Analyst jobs. =
+Here is my deep dive into the data job market! Focusing on analyst roles, this project explore rop-paying positions, in-demand skills and the intersection point of both, for Business Analyst jobs. 
 
 SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
@@ -18,14 +18,14 @@ Data hails from [Luke Barousse's SQL Course](https://www.lukebarousse.com/sql), 
  5. What are the most optimal skills to learn/
 
 # Tools I Used
-To analyse and dive deep into the analyst job market, I harnessed the power of several key tools:
+To analyse and dive deep into the data job market, I harnessed the power of several key tools:
 
 - **SQL:** using SQL as the backbone of my analysis, I queried from the database and unearthed critical insights.
 - **PostgreSQL:** The chosen databse management system, ideal for handling job posting data.
 - **Visual Code Studio:** Go-to databse for management and excuting SQL Queries
 
 # The Analysis
-Each query for this project aimed at investigating specific aspects of the data analyst job market. Here's how I approached each question
+Each query for this project aimed at investigating specific aspects of the data job market. Here's how I approached each question
 
 ### 1. Top paying Business Analyst Jobs
 To identify the highest-paying roles, I filtered Businesss Analyst positions by avverage yearly asalry and loaction, focusing on remote jobs. This query highlights the high paying oppotunities in the field.
