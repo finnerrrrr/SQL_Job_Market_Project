@@ -15,7 +15,7 @@ Data hails from [Luke Barousse's SQL Course](https://www.lukebarousse.com/sql), 
  2. What are the skills required for these top-paying jobs?
  3. What skills are most in demand for Business Analysts?
  4. Which skills are associated with higher salaries?
- 5. What are the most optimal skills to learn/
+ 5. What are the most optimal skills to learn?
 
 # Tools I Used
 To analyse and dive deep into the data job market, I harnessed the power of several key tools:
