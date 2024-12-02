@@ -1,5 +1,5 @@
 # Introduction
-Here is my deep dive into the data job market! Focusing on analyst roles, this project explore rop-paying positions, in-demand skills and the intersection point of both, for Business Analyst jobs. 
+Here is my deep dive into the data job market! Focusing on analyst roles, this project explore top-paying positions, in-demand skills and the intersection point of both, for Business Analyst jobs. 
 
 SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
