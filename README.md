@@ -7,7 +7,7 @@ SQL queries? Check them out here: [project_sql folder](/project_sql/)
 As an undergraduate in NUS majoring in Business Analytics, I embarked on this project in order to pinpoint top-paid and in-demand skills, to find out what was required to secure top-paying Business Analyst roles. 
 This ultimately streamlines the process to find optimal jobs.
 
-Data hails from [Luke Barousse's SQL Course](https://www.lukebarousse.com/sql), that includes the job titles, salaries, locatios and essential skills.
+Data hails from [Luke Barousse's SQL Course](https://www.lukebarousse.com/sql), that includes the job titles, salaries, locations and essential skills.
 
  ### The guiding questions I used were:
 
@@ -28,7 +28,7 @@ To analyse and dive deep into the data job market, I harnessed the power of seve
 Each query for this project aimed at investigating specific aspects of the data job market. Here's how I approached each question
 
 ### 1. Top paying Business Analyst Jobs
-To identify the highest-paying roles, I filtered Businesss Analyst positions by avverage yearly asalry and loaction, focusing on remote jobs. This query highlights the high paying oppotunities in the field.
+To identify the highest-paying roles, I filtered Businesss Analyst positions by avverage yearly salary and location, focusing on remote jobs. This query highlights the high paying oppotunities in the field.
 
 ```sql
 SELECT
